@@ -1,0 +1,30 @@
+
+.hour{
+    font-size: 1.6rem;
+    height: 3ch;
+    max-width: 20ch;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hourspage{
+ position: absolute;
+ left: 50%;
+ top: 100px;
+ transform: translate(-50%,0%);
+}
+.hourspage img{
+    max-height: 400px;
+}
+.location{
+    font-size: 1.2rem;
+    margin: 20px 0;
+    text-align: center;
+    color: rgb(141, 38, 38);
+}
+@media screen and (max-width: 553px) {
+    .hourspage img{
+        max-width: 300px;
+    }
+  }
