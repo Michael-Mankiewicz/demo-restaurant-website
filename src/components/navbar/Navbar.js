@@ -4,7 +4,7 @@ import './Navbar.css'
 import '../Button.css'
 import { Link, NavLink} from "react-router-dom";
 
-const Navbar = (props) => {
+const Navbar = () => {
 
     let [isClicked,setIsClicked] = useState(false);
 
