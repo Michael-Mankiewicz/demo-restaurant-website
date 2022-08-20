@@ -1,9 +1,8 @@
-import React, { Component, useState } from 'react';
+import React, {useState } from 'react';
 import {MenuItems} from "./MenuItems"
 import './Navbar.css'
-import {Button} from '../Button'
 import '../Button.css'
-import { Link, NavLink, useMatch,useResolvedPath } from "react-router-dom";
+import { Link, NavLink} from "react-router-dom";
 
 const Navbar = (props) => {
 

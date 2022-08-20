@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import ubereats from "./ubereats.png";
 import grubhub from "./grubhub.png";
 import slice from "./slice.png";

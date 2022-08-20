@@ -2,7 +2,7 @@ import pizza from "./images/pizza.png";
 import React from 'react';
 import './Home.css'
 import '../Button.css'
-import { Link, NavLink, useMatch,useResolvedPath } from "react-router-dom";
+import {NavLink} from "react-router-dom";
 const Home = () => {
   
   return (
