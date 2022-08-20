@@ -1,6 +1,4 @@
-import pancakes from "./foodpics/pancakes.jfif";
 import cheesePizza from "./foodpics/pizza.jfif";
-import waffles from "./foodpics/waffles.jpg";
 import chickenWings from "./foodpics/chickenwings.jpg";
 import salad from "./foodpics/salad.jpg";
 import waterbottle from "./foodpics/waterbottle.jpg";
